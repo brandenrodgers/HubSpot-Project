@@ -12,7 +12,11 @@ exports.main = async (context = {}, sendResponse) => {
   // Static CRM card example
   const staticCard = {
     objectId: 1,
+<<<<<<< Updated upstream
     title: 'Sample project custom CRM card some new update',
+=======
+    title: 'Sample project custom CRM card some update FROM THE CLI',
+>>>>>>> Stashed changes
     desc: `A custom CRM card is a UI extension that displays custom info from either HubSpot or an external system. It can also include custom actions—click the "Get Inspired" button to see example data from the ZenQuotes API.`,
   };
 
