@@ -1,6 +1,6 @@
 {
   "name": "App",
-  "description": "",
+  "description": "You need a description here.",
   "scopes": [
     "crm.objects.contacts.read",
     "crm.objects.contacts.write"
